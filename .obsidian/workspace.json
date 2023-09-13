@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 1 - Network Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde68ffdbad72bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2 - Interfaces and Cables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6498862d4c22c8a7",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 2 - Interfaces and Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 2 - Interfaces and Cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Day 2 - Interfaces and Cables.md"
+              }
+            }
+          },
+          {
+            "id": "a79c1ec3dbae1181",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,6 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7387568df8914ba8",
-  "lastOpenFiles": []
+  "active": "bde68ffdbad72bab",
+  "lastOpenFiles": [
+    "images/Pasted image 20230913131714.png",
+    "images/Pasted image 20230913113749.png",
+    "images/Pasted image 20230913113425.png",
+    "images/Pasted image 20230913113157.png",
+    "images/Pasted image 20230913113108.png",
+    "images/Pasted image 20230913113023.png",
+    "images/Pasted image 20230913111636.png",
+    "Day 1 - Network Devices.md",
+    "Day 2 - Interfaces and Cables.md",
+    "images/Pasted image 20230912110402.png",
+    "images/Pasted image 20230912110350.png",
+    "images/Pasted image 20230912110343.png",
+    "images/Pasted image 20230912110332.png",
+    "README.md",
+    "images",
+    "Day 1 _Network Devices_/README.md",
+    "Day 1 _Network Devices_"
+  ]
 }

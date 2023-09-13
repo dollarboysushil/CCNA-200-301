@@ -8,7 +8,7 @@ To earn your CCNA certification, you must pass the **200-301 CCNA** exam. This
 
   
 
-- ![Network Fundamentals](https://learningcontent.cisco.com/images/networking_icon_40px_sky.png)  
+- ![Network Fundamentals](https://learningcontent.cisco.com/images/networking_icon_40px_sky.png)   
     Network Fundamentals
     
 - ![Network Access](https://learningcontent.cisco.com/images/network_access_icon_40px_sky.png)  
@@ -31,7 +31,7 @@ _Expand each item below to view related exam topics._
 
 - ### 
     
-    1.0 Network Fundamentals
+    # 1.0 Network Fundamentals
     
     20%
     
@@ -92,7 +92,7 @@ _Expand each item below to view related exam topics._
     
 - ### 
     
-    2.0 Network Access
+    # 2.0 Network Access
     
     20%
     
@@ -127,7 +127,7 @@ _Expand each item below to view related exam topics._
     
 - ### 
     
-    3.0 IP Connectivity
+    # 3.0 IP Connectivity
     
     25%
     
@@ -163,7 +163,7 @@ _Expand each item below to view related exam topics._
     
 - ### 
     
-    4.0 IP Services
+    # 4.0 IP Services
     
     10%
     
@@ -188,7 +188,7 @@ _Expand each item below to view related exam topics._
     
 - ### 
     
-    5.0 Security Fundamentals
+    # 5.0 Security Fundamentals
     
     15%
     
@@ -215,7 +215,7 @@ _Expand each item below to view related exam topics._
     
 - ### 
     
-    6.0 Automation and Programmability
+    # 6.0 Automation and Programmability
     
     10%
     
