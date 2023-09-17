@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1627520add2f1425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2 - Interfaces and Cables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c5041917b8669d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3 - OSI Model & TCP,IP suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b79ab11afa7409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4 - Into to the CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2 - Interfaces and Cables.md",
+                "file": "Day 4 - Into to the CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2 - Interfaces and Cables.md",
+                "file": "Day 4 - Into to the CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2 - Interfaces and Cables.md"
+                "file": "Day 4 - Into to the CLI.md"
               }
             }
           },
@@ -169,21 +205,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bde68ffdbad72bab",
+  "active": "f8b79ab11afa7409",
   "lastOpenFiles": [
-    "images/Pasted image 20230913131714.png",
-    "images/Pasted image 20230913113749.png",
-    "images/Pasted image 20230913113425.png",
-    "images/Pasted image 20230913113157.png",
-    "images/Pasted image 20230913113108.png",
-    "images/Pasted image 20230913113023.png",
-    "images/Pasted image 20230913111636.png",
-    "Day 1 - Network Devices.md",
+    "images/Pasted image 20230917124842.png",
+    "Day 3 - OSI Model & TCP,IP suite.md",
+    "Day 4 - Into to the CLI.md",
+    "Untitled",
+    "images/Pasted image 20230917093450.png",
     "Day 2 - Interfaces and Cables.md",
-    "images/Pasted image 20230912110402.png",
-    "images/Pasted image 20230912110350.png",
-    "images/Pasted image 20230912110343.png",
-    "images/Pasted image 20230912110332.png",
+    "Day 1 - Network Devices.md",
+    "images/Pasted image 20230917083549.png",
+    "images/Pasted image 20230917083434.png",
+    "images/Pasted image 20230917083236.png",
+    "images/Pasted image 20230917083217.png",
+    "images/Pasted image 20230917082940.png",
+    "images/Pasted image 20230917082808.png",
+    "images/Pasted image 20230917082653.png",
+    "images/Pasted image 20230917082536.png",
+    "images/Pasted image 20230916194057.png",
     "README.md",
     "images",
     "Day 1 _Network Devices_/README.md",
