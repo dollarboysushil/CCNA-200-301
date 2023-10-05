@@ -90,7 +90,7 @@ __*Functions*__
 ![500](images/Pasted%20image%2020230917082653.png)
 
 ![500](images/Pasted%20image%2020230917082808.png)
-
+## Provides node to node connectivity
 
 # 1) Physical Layer
 
@@ -118,3 +118,5 @@ __*Functions*__
 
 
 ![](images/Pasted%20image%2020230917093450.png)
+![](images/Pasted%20image%2020230921200854.png)
+
