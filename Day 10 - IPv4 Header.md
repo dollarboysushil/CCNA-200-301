@@ -77,6 +77,7 @@
 - ### Used to prevent infinite loops
 - ### Originally designed to indicate the packets maximum lifetime in seconds
 - ### In practice, indicates a 'hop count': each time the packet arrives at a router, the router decreases the TTL by 1
+- ### Recommended default TTL of IPv4 Packet = 64
 
 
 # Protocol
