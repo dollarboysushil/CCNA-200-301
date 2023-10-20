@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58d84966273f222b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3 - OSI Model & TCP,IP suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a5bb27b59c3144f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 16 VLANs (Part1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "6498862d4c22c8a7",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 14 Subnetting part2.md",
+                "file": "Day 16 VLANs (Part1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 14 Subnetting part2.md",
+                "file": "Day 16 VLANs (Part1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 14 Subnetting part2.md"
+                "file": "Day 16 VLANs (Part1).md"
               }
             }
           },
@@ -169,29 +193,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedb133a068157f2",
+  "active": "5a5bb27b59c3144f",
   "lastOpenFiles": [
-    "images/Pasted image 20231010201755.png",
-    "Day 10 - IPv4 Header.md",
     "Day 14 Subnetting part2.md",
+    "Day 16 VLANs (Part1).md",
+    "images/Pasted image 20231020133723.png",
+    "images/Pasted image 20231020133706.png",
+    "Day 3 - OSI Model & TCP,IP suite.md",
+    "images/Pasted image 20231020132835.png",
+    "images/Pasted image 20231020132717.png",
+    "images/Pasted image 20231020132225.png",
+    "images/Pasted image 20231020132213.png",
+    "images/Pasted image 20231020131950.png",
+    "images/Pasted image 20231020131824.png",
+    "images/Pasted image 20231020131607.png",
+    "images/Pasted image 20231020131119.png",
+    "Day 1 - Network Devices.md",
+    "Day 10 - IPv4 Header.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
-    "images/Pasted image 20231005135147.png",
     "Day 6 - Ethernet LAN Switching (Part 2).md",
     "Day 4 - Into to the CLI.md",
-    "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 9 - Switch Interfaces.md",
     "Day 2 - Interfaces and Cables.md",
     "README.md",
-    "Day 1 - Network Devices.md",
-    "images/Pasted image 20230922165510.png",
-    "images/Pasted image 20230922165445.png",
-    "images/Pasted image 20230922165310.png",
-    "images/Pasted image 20230922165220.png",
-    "images/Pasted image 20230922165055.png",
-    "images/Pasted image 20230922164624.png",
-    "images/Pasted image 20230922164216.png",
-    "images/Pasted image 20230922164024.png",
-    "images/Pasted image 20230921201733.png",
     "Untitled",
     "images",
     "Day 1 _Network Devices_/README.md",

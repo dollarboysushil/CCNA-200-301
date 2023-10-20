@@ -8,9 +8,9 @@ ___
 |SN| **Layers**      | Description |
 |---| ----------- | ----------- |
 |7| Application      | HTTP /HTTPS  , SMTP , FTP etc      |
-|6| Presentation   |   translate between data formats|
+|6| Presentation   |   translate between data formats ,data translation and encryption for the network|
 |5| Session   |        |
-|4| Transport   |         |
+|4| Transport   | delivering data between devices , handles speed of data transfer , flow of the transfer and breaking data down into smaller segments to make them easier to transport        |
 |3| Network   |  Routers operate here       |
 |2| Data Link   |    Switches     |
 |1| Physical   |         |
