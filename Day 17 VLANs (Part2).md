@@ -76,3 +76,54 @@ Range of vlan 1-4094 is divided into tow sections:
 
 ## Native VLAN
 
+- It is 1 by default on all trunk ports but can be manually configured
+- Switch does not add an 802.1Q tag on frames in the native vlan
+- When a switch receives an untagged frame on a trunk port, it assumes the frame belongs to the native VLAN
+- It is very important that the vlan matches
+- For security reason it is best to change the native vlan to an unused VLAN 
+
+
+
+![](images/Pasted%20image%2020231021165655.png)
+
+
+## Trunk Configuration
+
+![](images/Pasted%20image%2020231021170101.png)
+
+![](images/Pasted%20image%2020231021170125.png)
+![](images/Pasted%20image%2020231021170216.png)
+
+![](images/Pasted%20image%2020231021170245.png)
+
+
+
+## Native Vlan Configuration
+
+|SN| **COMMANDS**      | **Description** |
+|---| ----------- | ----------- |
+|1|Switchport trunk native vlan {vlan id} | change the the vlan|
+|2|do show interfaces trunk| |
+|3|show vlan brief|shows the access ports assigned to each vlan not the trunk ports that allow each vlan|
+
+![](images/Pasted%20image%2020231021170946.png)
+
+
+
+## ROAS (Router on a Stick)
+
+![](images/Pasted%20image%2020231021180601.png)
+would look like this
+![](images/Pasted%20image%2020231021180549.png)
+
+##### Router Configuration
+
+![](images/Pasted%20image%2020231021180713.png)![](images/Pasted%20image%2020231021180804.png)
+![](images/Pasted%20image%2020231021180815.png)
+
+
+- ROAS is used to route between multiple VLANs using a single interface on the router and switch
+- The switch interface is configured as a regular trunk
+- We configure the VLAN tag and IP address on each subinterface
+- The router will tag frames sent out of each subinterface with the vlan tag configured on the subinterface
+![](images/Pasted%20image%2020231021181149.png)
