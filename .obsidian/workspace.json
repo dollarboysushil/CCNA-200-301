@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 3 - OSI Model & TCP,IP suite.md",
+                "file": "Day 17 VLANs (Part2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cac734fe29dfe6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 18 DTP , VTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5
   },
   "right": {
     "id": "6498862d4c22c8a7",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 17 VLANs (Part2).md",
+                "file": "Day 18 DTP , VTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 17 VLANs (Part2).md",
+                "file": "Day 18 DTP , VTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 17 VLANs (Part2).md"
+                "file": "Day 18 DTP , VTP.md"
               }
             }
           },
@@ -205,8 +217,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4382c23b4d1dee6a",
+  "active": "2cac734fe29dfe6a",
   "lastOpenFiles": [
+    "images/Pasted image 20231024170316.png",
+    "Day 17 VLANs (Part2).md",
+    "Day 18 DTP , VTP.md",
+    "Day 3 - OSI Model & TCP,IP suite.md",
+    "Day 14 Subnetting part2.md",
+    "Day 10 - IPv4 Header.md",
+    "Day 16 VLANs (Part1).md",
     "images/Pasted image 20231021181149.png",
     "images/Pasted image 20231021180815.png",
     "images/Pasted image 20231021180804.png",
@@ -215,15 +234,9 @@
     "images/Pasted image 20231021180549.png",
     "images/Pasted image 20231021180542.png",
     "images/Pasted image 20231021170946.png",
-    "Day 16 VLANs (Part1).md",
-    "Day 17 VLANs (Part2).md",
     "images/Pasted image 20231021170245.png",
     "images/Pasted image 20231021170216.png",
-    "images/Pasted image 20231021170125.png",
-    "Day 14 Subnetting part2.md",
-    "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 1 - Network Devices.md",
-    "Day 10 - IPv4 Header.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
     "Day 6 - Ethernet LAN Switching (Part 2).md",
     "Day 4 - Into to the CLI.md",
