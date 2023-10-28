@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6043efdfb291d66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 10 - IPv4 Header.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aedb133a068157f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 14 Subnetting part2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58d84966273f222b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 17 VLANs (Part2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cac734fe29dfe6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 19 DTP , VTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a02e7d4dc13d3684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 20 STP (Spanning Tree Protocol).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12ec7749102bf9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 21 STP (Spanning Tree Protocol) Part2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59f1cc89d8423b58",
             "type": "leaf",
             "state": {
@@ -92,31 +20,19 @@
             }
           },
           {
-            "id": "5a5bb27b59c3144f",
+            "id": "57d3e1ee8a8b2c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 16 VLANs (Part1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4382c23b4d1dee6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 17 VLANs (Part2).md",
+                "file": "Day 23 EtherChannel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "6498862d4c22c8a7",
@@ -182,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 22 Rapid Spanning Tree Protocol.md",
+                "file": "Day 23 EtherChannel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 22 Rapid Spanning Tree Protocol.md",
+                "file": "Day 23 EtherChannel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 22 Rapid Spanning Tree Protocol.md"
+                "file": "Day 23 EtherChannel.md"
               }
             }
           },
@@ -253,27 +169,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f1cc89d8423b58",
+  "active": "57d3e1ee8a8b2c60",
   "lastOpenFiles": [
-    "images/Pasted image 20231027145420.png",
-    "images/Pasted image 20231027145338.png",
-    "images/Pasted image 20231027145257.png",
-    "images/Pasted image 20231027145226.png",
-    "images/Pasted image 20231027145141.png",
-    "images/Pasted image 20231027145042.png",
-    "images/Pasted image 20231027144815.png",
-    "images/Pasted image 20231027144756.png",
-    "images/Pasted image 20231027144732.png",
-    "images/Pasted image 20231027144505.png",
-    "images/Pasted image 20231027144446.png",
-    "Day 21 STP (Spanning Tree Protocol) Part2.md",
+    "images/Pasted image 20231028163031.png",
+    "images/Pasted image 20231028162906.png",
+    "images/Pasted image 20231028162857.png",
+    "images/Pasted image 20231028162843.png",
+    "images/Pasted image 20231028162248.png",
+    "images/Pasted image 20231028160941.png",
+    "images/Pasted image 20231028160812.png",
+    "images/Pasted image 20231028160732.png",
+    "images/Pasted image 20231028160644.png",
+    "images/Pasted image 20231028160609.png",
+    "images/Pasted image 20231028152512.png",
     "Day 22 Rapid Spanning Tree Protocol.md",
+    "Day 23 EtherChannel.md",
+    "Day 14 Subnetting part2.md",
+    "Day 21 STP (Spanning Tree Protocol) Part2.md",
     "Day 16 VLANs (Part1).md",
     "Day 20 STP (Spanning Tree Protocol).md",
     "Day 19 DTP , VTP.md",
     "Day 17 VLANs (Part2).md",
     "Day 3 - OSI Model & TCP,IP suite.md",
-    "Day 14 Subnetting part2.md",
     "Day 10 - IPv4 Header.md",
     "Day 1 - Network Devices.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
