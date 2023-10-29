@@ -60,7 +60,7 @@ There are three methods of EtherChannel configuration on cisco switches:
 	- A protocol isn't used to determine if an EtherChannel should be formed
 	- Interfaces are statically configured to form an EtherChannel
 
-`Note: Up to 8 interfaces can be fromed into a single EtherChannel (LCAP allows up to 16, but only 8 will be active, the other 8 will be in standby mode, waiting for an active interface to fail`
+`Note: Up to 8 interfaces can be fromed into a single EtherChannel (LACP allows up to 16, but only 8 will be active, the other 8 will be in standby mode, waiting for an active interface to fail`
 
 
 ## Configuration
