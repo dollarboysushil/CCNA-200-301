@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59f1cc89d8423b58",
+            "id": "1adebc9988e74431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 22 Rapid Spanning Tree Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57d3e1ee8a8b2c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 23 EtherChannel.md",
+                "file": "Day 24 Dynamic Routing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 23 EtherChannel.md",
+                "file": "Day 24 Dynamic Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 23 EtherChannel.md",
+                "file": "Day 24 Dynamic Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 23 EtherChannel.md"
+                "file": "Day 24 Dynamic Routing.md"
               }
             }
           },
@@ -169,25 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d3e1ee8a8b2c60",
+  "active": "1adebc9988e74431",
   "lastOpenFiles": [
-    "images/Pasted image 20231028163031.png",
-    "images/Pasted image 20231028162906.png",
-    "images/Pasted image 20231028162857.png",
-    "images/Pasted image 20231028162843.png",
-    "images/Pasted image 20231028162248.png",
-    "images/Pasted image 20231028160941.png",
-    "images/Pasted image 20231028160812.png",
-    "images/Pasted image 20231028160732.png",
-    "images/Pasted image 20231028160644.png",
-    "images/Pasted image 20231028160609.png",
-    "images/Pasted image 20231028152512.png",
-    "Day 22 Rapid Spanning Tree Protocol.md",
+    "images/Pasted image 20231029175924.png",
+    "images/Pasted image 20231029175915.png",
+    "images/Pasted image 20231029175848.png",
+    "images/Pasted image 20231029175810.png",
+    "images/Pasted image 20231029175202.png",
+    "images/Pasted image 20231029174758.png",
+    "images/Pasted image 20231029174728.png",
+    "images/Pasted image 20231029174434.png",
+    "images/Pasted image 20231029174402.png",
+    "images/Pasted image 20231029174251.png",
+    "images/Pasted image 20231029174049.png",
     "Day 23 EtherChannel.md",
-    "Day 14 Subnetting part2.md",
+    "Day 22 Rapid Spanning Tree Protocol.md",
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
-    "Day 16 VLANs (Part1).md",
+    "Day 24 Dynamic Routing.md",
     "Day 20 STP (Spanning Tree Protocol).md",
+    "Day 14 Subnetting part2.md",
+    "Day 16 VLANs (Part1).md",
     "Day 19 DTP , VTP.md",
     "Day 17 VLANs (Part2).md",
     "Day 3 - OSI Model & TCP,IP suite.md",
