@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Day 24 Dynamic Routing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287579718a6877a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 25 RIP and EIGRP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 24 Dynamic Routing.md",
+                "file": "Day 25 RIP and EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 24 Dynamic Routing.md",
+                "file": "Day 25 RIP and EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 24 Dynamic Routing.md"
+                "file": "Day 25 RIP and EIGRP.md"
               }
             }
           },
@@ -156,23 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1adebc9988e74431",
+  "active": "287579718a6877a8",
   "lastOpenFiles": [
-    "images/Pasted image 20231029175924.png",
-    "images/Pasted image 20231029175915.png",
-    "images/Pasted image 20231029175848.png",
-    "images/Pasted image 20231029175810.png",
-    "images/Pasted image 20231029175202.png",
-    "images/Pasted image 20231029174758.png",
-    "images/Pasted image 20231029174728.png",
-    "images/Pasted image 20231029174434.png",
-    "images/Pasted image 20231029174402.png",
-    "images/Pasted image 20231029174251.png",
-    "images/Pasted image 20231029174049.png",
+    "images/Pasted image 20231030141129.png",
+    "images/Pasted image 20231030141034.png",
+    "images/Pasted image 20231030140943.png",
+    "images/Pasted image 20231030140831.png",
+    "images/Pasted image 20231030140820.png",
+    "images/Pasted image 20231030140711.png",
+    "images/Pasted image 20231030140557.png",
+    "images/Pasted image 20231030140550.png",
+    "images/Pasted image 20231030140541.png",
+    "images/Pasted image 20231030140458.png",
+    "images/Pasted image 20231030140441.png",
+    "Day 24 Dynamic Routing.md",
+    "Day 25 RIP and EIGRP.md",
     "Day 23 EtherChannel.md",
     "Day 22 Rapid Spanning Tree Protocol.md",
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
-    "Day 24 Dynamic Routing.md",
     "Day 20 STP (Spanning Tree Protocol).md",
     "Day 14 Subnetting part2.md",
     "Day 16 VLANs (Part1).md",
