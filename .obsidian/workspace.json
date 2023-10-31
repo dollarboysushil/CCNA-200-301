@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8665531938a7735c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 26 OSPF Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 25 RIP and EIGRP.md",
+                "file": "Day 26 OSPF Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 25 RIP and EIGRP.md",
+                "file": "Day 26 OSPF Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 25 RIP and EIGRP.md"
+                "file": "Day 26 OSPF Part 1.md"
               }
             }
           },
@@ -169,21 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "287579718a6877a8",
+  "active": "8665531938a7735c",
   "lastOpenFiles": [
-    "images/Pasted image 20231031130517.png",
-    "images/Pasted image 20231031130302.png",
-    "images/Pasted image 20231030141129.png",
-    "images/Pasted image 20231030141034.png",
-    "images/Pasted image 20231030140943.png",
-    "images/Pasted image 20231030140831.png",
-    "images/Pasted image 20231030140820.png",
-    "images/Pasted image 20231030140711.png",
-    "images/Pasted image 20231030140557.png",
-    "images/Pasted image 20231030140550.png",
-    "images/Pasted image 20231030140541.png",
-    "Day 24 Dynamic Routing.md",
+    "images/Pasted image 20231031165228.png",
+    "images/Pasted image 20231031165004.png",
+    "images/Pasted image 20231031164634.png",
+    "images/Pasted image 20231031164457.png",
+    "images/Pasted image 20231031164337.png",
+    "images/Pasted image 20231031164216.png",
+    "images/Pasted image 20231031164140.png",
+    "images/Pasted image 20231031163616.png",
+    "images/Pasted image 20231031163344.png",
+    "images/Pasted image 20231031163330.png",
+    "images/Pasted image 20231031163045.png",
     "Day 25 RIP and EIGRP.md",
+    "Day 26 OSPF Part 1.md",
+    "Day 24 Dynamic Routing.md",
     "Day 23 EtherChannel.md",
     "Day 22 Rapid Spanning Tree Protocol.md",
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
