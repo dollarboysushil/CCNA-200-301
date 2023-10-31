@@ -84,3 +84,15 @@
 
 
 
+---
+---
+FROM LAB VIDEO
+
+
+
+![](images/Pasted%20image%2020231031130302.png)
+
+![](images/Pasted%20image%2020231031130517.png)
+
+
+
