@@ -152,3 +152,65 @@ Here is the full detail
 ## OSPF Neighbor Requirements
 
 
+- Area number must match
+	- ![](images/Pasted%20image%2020231102181843.png)
+	- ![](images/Pasted%20image%2020231102181853.png)
+
+
+- Interfaces must be in the same subnet
+	- ![](images/Pasted%20image%2020231102181951.png)
+	- ![](images/Pasted%20image%2020231102182008.png)
+
+
+- OSPF process must not be shutdown
+	- ![](images/Pasted%20image%2020231102182150.png)
+
+
+
+- OSPF Router IDs must be unique
+	- ![](images/Pasted%20image%2020231102182412.png)
+
+
+
+- Hello and Dead timers must match
+	- ![](images/Pasted%20image%2020231102182947.png)
+
+
+- Authentication setting must match
+	- ![](images/Pasted%20image%2020231102183121.png)
+
+
+- IP MTU must match
+	- IP MTU is the maximum size of an IP packet that will be sent out of the interface
+	- The default is usually 1500 bytes and can be configured
+	- ![](images/Pasted%20image%2020231102183907.png)
+
+
+- OSPF Network Type Must Match
+	- ![](images/Pasted%20image%2020231102184007.png)
+	- ![](images/Pasted%20image%2020231102184033.png)
+	- `R2s loopback address is not in R1 routing table`
+
+
+
+
+#### Conclusions
+![](images/Pasted%20image%2020231102184112.png)
+
+
+---
+----
+----
+----
+
+
+## OSPF LSA Types
+
+![](images/Pasted%20image%2020231102184317.png)
+
+![](images/Pasted%20image%2020231102184410.png)
+
+## ` lsdb on R1`
+![](images/Pasted%20image%2020231102184534.png)
+
+
