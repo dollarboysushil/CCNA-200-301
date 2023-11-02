@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1adebc9988e74431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 24 Dynamic Routing.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "287579718a6877a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 25 RIP and EIGRP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8665531938a7735c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 23 EtherChannel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26c8abba8a8f8f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 27 OSPF Part 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730d6a969a606ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 27 OSPF Part 2.md",
+                "file": "Day 28 OSPF Part 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 27 OSPF Part 2.md",
+                "file": "Day 28 OSPF Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 27 OSPF Part 2.md"
+                "file": "Day 28 OSPF Part 3.md"
               }
             }
           },
@@ -207,21 +158,22 @@
   },
   "active": "26c8abba8a8f8f10",
   "lastOpenFiles": [
-    "Day 28 OSPF Part 3.md",
+    "images/Pasted image 20231102180855.png",
+    "images/Pasted image 20231102180819.png",
+    "images/Pasted image 20231102180745.png",
+    "images/Pasted image 20231102180544.png",
+    "images/Pasted image 20231102180427.png",
+    "images/Pasted image 20231102175253.png",
+    "images/Pasted image 20231102175155.png",
+    "images/Pasted image 20231102175137.png",
+    "images/Pasted image 20231102175052.png",
+    "images/Pasted image 20231102175003.png",
+    "images/Pasted image 20231102174850.png",
     "Day 27 OSPF Part 2.md",
+    "Day 28 OSPF Part 3.md",
     "Day 24 Dynamic Routing.md",
     "Day 25 RIP and EIGRP.md",
     "Day 26 OSPF Part 1.md",
-    "images/Pasted image 20231101185128.png",
-    "images/Pasted image 20231101185112.png",
-    "images/Pasted image 20231101185014.png",
-    "images/Pasted image 20231101185002.png",
-    "images/Pasted image 20231101184949.png",
-    "images/Pasted image 20231101184926.png",
-    "images/Pasted image 20231101184741.png",
-    "images/Pasted image 20231101184656.png",
-    "images/Pasted image 20231101184612.png",
-    "images/Pasted image 20231101184534.png",
     "Day 23 EtherChannel.md",
     "Day 22 Rapid Spanning Tree Protocol.md",
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
