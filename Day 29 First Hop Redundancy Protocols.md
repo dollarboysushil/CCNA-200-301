@@ -54,3 +54,6 @@ In above network, R1s IP 172.16.0.254 is set as `default gateway` which means ea
 ![](images/Pasted%20image%2020231103103818.png)
 ![](images/Pasted%20image%2020231103103856.png)![](images/Pasted%20image%2020231103104008.png)
 
+
+## Conclusion
+![](images/Pasted%20image%2020231103104156.png)
