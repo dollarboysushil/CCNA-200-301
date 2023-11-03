@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Day 28 OSPF Part 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd212c60f7506abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 29 First Hop Redundancy Protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 28 OSPF Part 3.md",
+                "file": "Day 29 First Hop Redundancy Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 28 OSPF Part 3.md",
+                "file": "Day 29 First Hop Redundancy Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 28 OSPF Part 3.md"
+                "file": "Day 29 First Hop Redundancy Protocols.md"
               }
             }
           },
@@ -156,21 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c8abba8a8f8f10",
+  "active": "cd212c60f7506abf",
   "lastOpenFiles": [
-    "images/Pasted image 20231102184534.png",
-    "images/Pasted image 20231102184410.png",
-    "images/Pasted image 20231102184317.png",
-    "images/Pasted image 20231102184112.png",
-    "images/Pasted image 20231102184033.png",
-    "images/Pasted image 20231102184007.png",
-    "images/Pasted image 20231102183907.png",
-    "images/Pasted image 20231102183121.png",
-    "images/Pasted image 20231102182947.png",
-    "images/Pasted image 20231102182412.png",
-    "images/Pasted image 20231102182150.png",
-    "Day 27 OSPF Part 2.md",
+    "images/Pasted image 20231103104008.png",
+    "images/Pasted image 20231103103856.png",
+    "images/Pasted image 20231103103818.png",
+    "images/Pasted image 20231103103607.png",
+    "images/Pasted image 20231103103345.png",
+    "images/Pasted image 20231103103313.png",
+    "images/Pasted image 20231103102930.png",
+    "Day 16 VLANs (Part1).md",
+    "Day 29 First Hop Redundancy Protocols.md",
+    "images/Pasted image 20231103102154.png",
+    "images/Pasted image 20231103101441.png",
+    "images/Pasted image 20231103101351.png",
+    "images/Pasted image 20231103100354.png",
     "Day 28 OSPF Part 3.md",
+    "Day 3 - OSI Model & TCP,IP suite.md",
+    "Day 27 OSPF Part 2.md",
     "Day 24 Dynamic Routing.md",
     "Day 25 RIP and EIGRP.md",
     "Day 26 OSPF Part 1.md",
@@ -179,10 +195,8 @@
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
     "Day 20 STP (Spanning Tree Protocol).md",
     "Day 14 Subnetting part2.md",
-    "Day 16 VLANs (Part1).md",
     "Day 19 DTP , VTP.md",
     "Day 17 VLANs (Part2).md",
-    "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 10 - IPv4 Header.md",
     "Day 1 - Network Devices.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
