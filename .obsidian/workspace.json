@@ -26,13 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "Day 29 First Hop Redundancy Protocols.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97c058c5d56b849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 30 TCP and UDP.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 29 First Hop Redundancy Protocols.md",
+                "file": "Day 30 TCP and UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 29 First Hop Redundancy Protocols.md",
+                "file": "Day 30 TCP and UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 29 First Hop Redundancy Protocols.md"
+                "file": "Day 30 TCP and UDP.md"
               }
             }
           },
@@ -156,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,21 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd212c60f7506abf",
+  "active": "e97c058c5d56b849",
   "lastOpenFiles": [
-    "images/Pasted image 20231103104156.png",
-    "images/Pasted image 20231103104008.png",
-    "images/Pasted image 20231103103856.png",
-    "images/Pasted image 20231103103818.png",
-    "images/Pasted image 20231103103607.png",
-    "images/Pasted image 20231103103345.png",
-    "images/Pasted image 20231103103313.png",
-    "images/Pasted image 20231103102930.png",
-    "Day 16 VLANs (Part1).md",
+    "images/Pasted image 20231104193025.png",
+    "images/Pasted image 20231104193001.png",
+    "images/Pasted image 20231104192954.png",
+    "images/Pasted image 20231104192928.png",
+    "images/Pasted image 20231104192903.png",
+    "images/Pasted image 20231104192805.png",
+    "images/Pasted image 20231104192703.png",
+    "images/Pasted image 20231104192616.png",
+    "images/Pasted image 20231104192522.png",
+    "images/Pasted image 20231104192453.png",
+    "images/Pasted image 20231104192441.png",
     "Day 29 First Hop Redundancy Protocols.md",
-    "images/Pasted image 20231103102154.png",
-    "images/Pasted image 20231103101441.png",
-    "images/Pasted image 20231103101351.png",
+    "Day 30 TCP and UDP.md",
+    "Day 16 VLANs (Part1).md",
     "Day 28 OSPF Part 3.md",
     "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 27 OSPF Part 2.md",
