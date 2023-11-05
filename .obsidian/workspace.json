@@ -42,9 +42,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ca1e65a7df02d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 31 IPv6 Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f233318726db6303",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20231105144407.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 30 TCP and UDP.md",
+                "file": "Day 31 IPv6 Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 30 TCP and UDP.md",
+                "file": "Day 31 IPv6 Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 30 TCP and UDP.md"
+                "file": "Day 31 IPv6 Part 1.md"
               }
             }
           },
@@ -181,46 +203,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e97c058c5d56b849",
+  "active": "41ca1e65a7df02d3",
   "lastOpenFiles": [
-    "images/Pasted image 20231104193025.png",
-    "images/Pasted image 20231104193001.png",
-    "images/Pasted image 20231104192954.png",
-    "images/Pasted image 20231104192928.png",
-    "images/Pasted image 20231104192903.png",
-    "images/Pasted image 20231104192805.png",
-    "images/Pasted image 20231104192703.png",
-    "images/Pasted image 20231104192616.png",
-    "images/Pasted image 20231104192522.png",
-    "images/Pasted image 20231104192453.png",
-    "images/Pasted image 20231104192441.png",
-    "Day 29 First Hop Redundancy Protocols.md",
-    "Day 30 TCP and UDP.md",
-    "Day 16 VLANs (Part1).md",
-    "Day 28 OSPF Part 3.md",
     "Day 3 - OSI Model & TCP,IP suite.md",
-    "Day 27 OSPF Part 2.md",
+    "Day 2 - Interfaces and Cables.md",
+    "Day 1 - Network Devices.md",
+    "Day 19 DTP , VTP.md",
+    "Day 23 EtherChannel.md",
     "Day 24 Dynamic Routing.md",
     "Day 25 RIP and EIGRP.md",
     "Day 26 OSPF Part 1.md",
-    "Day 23 EtherChannel.md",
+    "Day 30 TCP and UDP.md",
+    "Day 31 IPv6 Part 1.md",
+    "images/Pasted image 20231105145649.png",
+    "images/Pasted image 20231105145145.png",
+    "images/Pasted image 20231105144953.png",
+    "images/Pasted image 20231105144912.png",
+    "images/Pasted image 20231105144518.png",
+    "images/Pasted image 20231105144407.png",
+    "images/Pasted image 20231105144200.png",
+    "images/Pasted image 20231105125946.png",
+    "images/Pasted image 20231105125704.png",
+    "images/Pasted image 20231105125545.png",
+    "Day 20 STP (Spanning Tree Protocol).md",
+    "Day 16 VLANs (Part1).md",
+    "Day 29 First Hop Redundancy Protocols.md",
+    "Day 28 OSPF Part 3.md",
+    "Day 27 OSPF Part 2.md",
     "Day 22 Rapid Spanning Tree Protocol.md",
     "Day 21 STP (Spanning Tree Protocol) Part2.md",
-    "Day 20 STP (Spanning Tree Protocol).md",
     "Day 14 Subnetting part2.md",
-    "Day 19 DTP , VTP.md",
     "Day 17 VLANs (Part2).md",
     "Day 10 - IPv4 Header.md",
-    "Day 1 - Network Devices.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
     "Day 6 - Ethernet LAN Switching (Part 2).md",
     "Day 4 - Into to the CLI.md",
     "Day 9 - Switch Interfaces.md",
-    "Day 2 - Interfaces and Cables.md",
     "README.md",
     "Untitled",
     "images",
-    "Day 1 _Network Devices_/README.md",
     "Day 1 _Network Devices_"
   ]
 }
