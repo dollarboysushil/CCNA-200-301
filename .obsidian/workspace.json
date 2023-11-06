@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "c7cac02932b4f815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 32 IPv6 Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f233318726db6303",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 31 IPv6 Part 1.md",
+                "file": "Day 32 IPv6 Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 31 IPv6 Part 1.md",
+                "file": "Day 32 IPv6 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 31 IPv6 Part 1.md"
+                "file": "Day 32 IPv6 Part 2.md"
               }
             }
           },
@@ -203,8 +215,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41ca1e65a7df02d3",
+  "active": "c7cac02932b4f815",
   "lastOpenFiles": [
+    "images/Pasted image 20231106102207.png",
+    "Day 31 IPv6 Part 1.md",
+    "Day 32 IPv6 Part 2.md",
+    "images/Pasted image 20231106100832.png",
+    "images/Pasted image 20231106100621.png",
+    "images/Pasted image 20231106095345.png",
+    "images/Pasted image 20231106094912.png",
     "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 2 - Interfaces and Cables.md",
     "Day 1 - Network Devices.md",
@@ -214,17 +233,12 @@
     "Day 25 RIP and EIGRP.md",
     "Day 26 OSPF Part 1.md",
     "Day 30 TCP and UDP.md",
-    "Day 31 IPv6 Part 1.md",
     "images/Pasted image 20231105145649.png",
     "images/Pasted image 20231105145145.png",
     "images/Pasted image 20231105144953.png",
     "images/Pasted image 20231105144912.png",
     "images/Pasted image 20231105144518.png",
     "images/Pasted image 20231105144407.png",
-    "images/Pasted image 20231105144200.png",
-    "images/Pasted image 20231105125946.png",
-    "images/Pasted image 20231105125704.png",
-    "images/Pasted image 20231105125545.png",
     "Day 20 STP (Spanning Tree Protocol).md",
     "Day 16 VLANs (Part1).md",
     "Day 29 First Hop Redundancy Protocols.md",
@@ -239,7 +253,6 @@
     "Day 6 - Ethernet LAN Switching (Part 2).md",
     "Day 4 - Into to the CLI.md",
     "Day 9 - Switch Interfaces.md",
-    "README.md",
     "Untitled",
     "images",
     "Day 1 _Network Devices_"
