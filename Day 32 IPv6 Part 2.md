@@ -43,6 +43,38 @@ EUI-64  is not really a type of IPv6 address, it is a method of automatically ge
 ## 1. Global Unicast
 
 ![](images/Pasted%20image%2020231106102207.png)
+`first 64bits are network prefix and last 64 bits are host portions`
 
 ## 2. Unique Local
 
+![](images/Pasted%20image%2020231106102606.png)
+
+
+## 3. Link Local
+
+![](images/Pasted%20image%2020231106103124.png)
+
+
+## 4. Multicast
+
+![](images/Pasted%20image%2020231106103449.png)
+![](images/Pasted%20image%2020231106103533.png)
+
+#### Multicast address scopes
+
+![](images/Pasted%20image%2020231106103908.png)
+`lets look at a diagram to visualise the scopes`
+
+![](images/Pasted%20image%2020231106104106.png)
+` aside from interface-local and link-local the actual boundaries of each scope needs to be defined by the network engineer.`
+
+
+## 5. Anycast
+
+![](images/Pasted%20image%2020231106104641.png)
+![](images/Pasted%20image%2020231106104829.png)
+
+
+# Other IPv6 Addresses
+
+![](images/Pasted%20image%2020231106105222.png)
