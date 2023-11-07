@@ -62,4 +62,11 @@
 ![](images/Pasted%20image%2020231108142207.png)
 ![](images/Pasted%20image%2020231108142440.png)
 
-## Link-Local Next Hops![](images/Pasted%20image%2020231108142629.png)
+## Link-Local Next Hops
+![](images/Pasted%20image%2020231108142629.png)
+
+
+
+
+
+
