@@ -62,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "Day 32 IPv6 Part 2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8446ba219e3f82d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 33 IPv6 Part 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 32 IPv6 Part 2.md",
+                "file": "Day 33 IPv6 Part 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 32 IPv6 Part 2.md",
+                "file": "Day 33 IPv6 Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 32 IPv6 Part 2.md"
+                "file": "Day 33 IPv6 Part 3.md"
               }
             }
           },
@@ -215,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7cac02932b4f815",
+  "active": "8446ba219e3f82d9",
   "lastOpenFiles": [
+    "Day 32 IPv6 Part 2.md",
+    "Day 33 IPv6 Part 3.md",
     "images/Pasted image 20231106105222.png",
     "images/Pasted image 20231106104829.png",
     "images/Pasted image 20231106104641.png",
@@ -228,8 +242,6 @@
     "images/Pasted image 20231106102606.png",
     "images/Pasted image 20231106102207.png",
     "Day 31 IPv6 Part 1.md",
-    "Day 32 IPv6 Part 2.md",
-    "images/Pasted image 20231106100832.png",
     "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 2 - Interfaces and Cables.md",
     "Day 1 - Network Devices.md",
