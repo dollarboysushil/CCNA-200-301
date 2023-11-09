@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09b820629c223422",
+            "id": "1e955cdfcaa8cf29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 33 IPv6 Part 3.md",
+                "file": "Day  34 Standard ACLs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "577f55da5c7b33c3",
+            "id": "870db2b335c7cadd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 33 IPv6 Part 3.md",
+                "file": "Day  34 Standard ACLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 33 IPv6 Part 3.md",
+                "file": "Day  34 Standard ACLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 33 IPv6 Part 3.md",
+                "file": "Day  34 Standard ACLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 33 IPv6 Part 3.md"
+                "file": "Day  34 Standard ACLs.md"
               }
             }
           },
@@ -169,25 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "577f55da5c7b33c3",
+  "active": "870db2b335c7cadd",
   "lastOpenFiles": [
-    "images/Pasted image 20231108142629.png",
-    "images/Pasted image 20231108142440.png",
-    "images/Pasted image 20231108142207.png",
-    "images/Pasted image 20231108142133.png",
-    "images/Pasted image 20231108141734.png",
-    "images/Pasted image 20231108141623.png",
-    "images/Pasted image 20231108140448.png",
-    "images/Pasted image 20231108140225.png",
-    "images/Pasted image 20231108140029.png",
-    "images/Pasted image 20231108135743.png",
-    "images/Pasted image 20231108135605.png",
-    "Day 33 IPv6 Part 3.md",
+    "images/Pasted image 20231109110257.png",
+    "images/Pasted image 20231109105955.png",
+    "Day 1 - Network Devices.md",
+    "images/Pasted image 20231109105925.png",
+    "Day  34 Standard ACLs.md",
     "Day 3 - OSI Model & TCP,IP suite.md",
+    "images/Pasted image 20231109105129.png",
+    "images/Pasted image 20231109104656.png",
+    "images/Pasted image 20231109100601.png",
+    "images/Pasted image 20231109094447.png",
+    "images/Pasted image 20231109094302.png",
+    "images/Pasted image 20231109094124.png",
+    "images/Pasted image 20231109093852.png",
+    "images/Pasted image 20231109093327.png",
+    "Day 33 IPv6 Part 3.md",
     "Day 32 IPv6 Part 2.md",
     "Day 31 IPv6 Part 1.md",
     "Day 2 - Interfaces and Cables.md",
-    "Day 1 - Network Devices.md",
     "Day 19 DTP , VTP.md",
     "Day 23 EtherChannel.md",
     "Day 24 Dynamic Routing.md",
@@ -206,7 +207,6 @@
     "Day 10 - IPv4 Header.md",
     "Day 5 - Ethernet LAN Switching (Part 1).md",
     "Day 6 - Ethernet LAN Switching (Part 2).md",
-    "Day 4 - Into to the CLI.md",
     "Untitled",
     "images",
     "Day 1 _Network Devices_"
