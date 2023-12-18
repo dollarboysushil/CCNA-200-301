@@ -25,6 +25,66 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Day 35 Extended ACLs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1721f734028a983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 36 CDP and LLDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d35976bbeed286fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 37 NTP (Network Time Protocol).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ee259f249fbab30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 38 DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76a696c60af08238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 49 DHCP (Dynamic Host Configuration Protocol).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1367f0eb917fefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Day  34 Standard ACLs.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day  34 Standard ACLs.md",
+                "file": "Day 49 DHCP (Dynamic Host Configuration Protocol).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day  34 Standard ACLs.md",
+                "file": "Day 49 DHCP (Dynamic Host Configuration Protocol).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day  34 Standard ACLs.md"
+                "file": "Day 49 DHCP (Dynamic Host Configuration Protocol).md"
               }
             }
           },
@@ -169,23 +229,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "870db2b335c7cadd",
+  "active": "76a696c60af08238",
   "lastOpenFiles": [
-    "images/Pasted image 20231109110257.png",
-    "images/Pasted image 20231109105955.png",
-    "Day 1 - Network Devices.md",
-    "images/Pasted image 20231109105925.png",
+    "README.md",
+    "Day 14 Subnetting part2.md",
+    "Day 49 DHCP (Dynamic Host Configuration Protocol).md",
+    "Day 38 DNS.md",
+    "Day 37 NTP (Network Time Protocol).md",
+    "images/Pasted image 20231112125512.png",
+    "images/Pasted image 20231112125341 1.png",
+    "images/Pasted image 20231112125341.png",
+    "images/Pasted image 20231112125337.png",
+    "images/Pasted image 20231112125103.png",
+    "images/Pasted image 20231112124916.png",
+    "images/Pasted image 20231112124845.png",
+    "images/Pasted image 20231112124817.png",
+    "images/Pasted image 20231112124808.png",
+    "images/Pasted image 20231112124559.png",
+    "Day 36 CDP and LLDP.md",
+    "Day 35 Extended ACLs.md",
     "Day  34 Standard ACLs.md",
-    "Day 3 - OSI Model & TCP,IP suite.md",
-    "images/Pasted image 20231109105129.png",
-    "images/Pasted image 20231109104656.png",
-    "images/Pasted image 20231109100601.png",
-    "images/Pasted image 20231109094447.png",
-    "images/Pasted image 20231109094302.png",
-    "images/Pasted image 20231109094124.png",
-    "images/Pasted image 20231109093852.png",
-    "images/Pasted image 20231109093327.png",
     "Day 33 IPv6 Part 3.md",
+    "Day 26 OSPF Part 1.md",
+    "Day 1 - Network Devices.md",
+    "Day 3 - OSI Model & TCP,IP suite.md",
     "Day 32 IPv6 Part 2.md",
     "Day 31 IPv6 Part 1.md",
     "Day 2 - Interfaces and Cables.md",
@@ -193,7 +260,6 @@
     "Day 23 EtherChannel.md",
     "Day 24 Dynamic Routing.md",
     "Day 25 RIP and EIGRP.md",
-    "Day 26 OSPF Part 1.md",
     "Day 30 TCP and UDP.md",
     "Day 20 STP (Spanning Tree Protocol).md",
     "Day 16 VLANs (Part1).md",
@@ -201,12 +267,6 @@
     "Day 28 OSPF Part 3.md",
     "Day 27 OSPF Part 2.md",
     "Day 22 Rapid Spanning Tree Protocol.md",
-    "Day 21 STP (Spanning Tree Protocol) Part2.md",
-    "Day 14 Subnetting part2.md",
-    "Day 17 VLANs (Part2).md",
-    "Day 10 - IPv4 Header.md",
-    "Day 5 - Ethernet LAN Switching (Part 1).md",
-    "Day 6 - Ethernet LAN Switching (Part 2).md",
     "Untitled",
     "images",
     "Day 1 _Network Devices_"
