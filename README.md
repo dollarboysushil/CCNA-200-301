@@ -1,6 +1,7 @@
 # CCNA-200-301
 Following Jeremy's IT Lab | Free CCNA 200-301 | Complete Course 2023 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdollarboysushil%2FCCNA-200-301&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Exam Description
 
